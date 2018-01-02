@@ -1,2 +1,3 @@
 # pytorch-learn
-A fork of [pytorch tutorials](http://pytorch.org/tutorials/)'s jupyter notebook
+A fork with own changes and tests of [pytorch tutorials](http://pytorch.org/tutorials/)'s toturials
+
